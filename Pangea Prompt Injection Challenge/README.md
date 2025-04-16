@@ -1,9 +1,9 @@
 
 # Pangea Prompt Injection Challenge Writeup
 
-**Author:** Joey Melo
-**Dates:** March 3, 2025 to March 31, 2025
-**Total Prize Pool:** $10,000 USD
+* **Author:** Joey Melo
+* **Dates:** March 3, 2025 to March 31, 2025
+* **Total Prize Pool:** $10,000 USD
 
 > [!NOTE]
 > I initially entered this challenge for fun and didn’t expect to win, so I wasn’t taking detailed notes on my progress or research. Nonetheless, I’ve done my best to retrace my steps and document my thought process, the prompts I tried, and the flags I obtained along the way.
