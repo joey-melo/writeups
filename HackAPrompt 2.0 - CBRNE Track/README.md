@@ -1,9 +1,11 @@
-> [!EXAMPLE] About
-> **Author:** Joey Melo
-> **Dates:** May 16, 2025 to June 19 2025
-> **2nd Place Prize:** $5,000 USD
+## About
+* **Author:** Joey Melo
+* **Dates:** May 16, 2025 to June 19 2025
+* **2nd Place Prize:** $5,000 USD
 
-For winning prompts and detailed strategies, please refer to corresponding **challenges** folder in this repository
+For winning prompts and detailed strategies, please refer to the [challenges](./challenges) folder in this repository.
+
+---
 
 ## Introduction
 
@@ -45,5 +47,4 @@ Using ChatGPT or similar models to assist with prompt crafting wasn’t as simpl
 
 For tougher challenges like OPAM and Universal, I kept my sanity by running each payload five times and logging the results in a spreadsheet. Because LLMs are non-deterministic, the same prompt might succeed once and fail the rest of the time, or vice versa. It quickly became a **probability exercise** rather than a binary pass or fail. Tracking success rates helped me see patterns, refine my approach, and figure out whether a tweak actually improved the odds. Here's a snapshot of my spreadsheet:
 
-![[CBRNE/img/strategy.png]]
-
+<img src="strategy.png" alt="Strategy" width="500"/>
